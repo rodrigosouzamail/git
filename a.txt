@@ -1,2 +1,4 @@
 teste
 Entendendo o HEAD
+
+Esta linha foi modificada no ramo master
